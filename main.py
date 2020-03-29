@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-
+#images
 
 path_to_images = 'images'
 path_to_images_resized = 'images_resized'
